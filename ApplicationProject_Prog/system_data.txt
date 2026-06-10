@@ -1,0 +1,15 @@
+[TENANT]
+Name: Testo
+Room: Test
+Contact: Test
+Lease Start: 67
+------------------------------------------------
+[2026-06-10 11:33:05] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-10 11:34:44] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-10 11:35:14] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------

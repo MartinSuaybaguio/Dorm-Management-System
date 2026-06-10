@@ -1,0 +1,5 @@
+---TENANTS_START---
+---HISTORY_START---
+1 paid ₱0.00
+Unit 9 paid ₱4000.00
+Room 9 paid ₱100.00

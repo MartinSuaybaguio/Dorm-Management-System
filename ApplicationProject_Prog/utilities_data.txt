@@ -1,0 +1,7 @@
+[UTILITIES]
+Status: PARTIAL
+Tenant: 67
+Electricity: 12
+Water: 67
+Other: 123513513
+------------------------------------------------
