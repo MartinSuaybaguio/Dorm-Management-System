@@ -1,0 +1,276 @@
+[2026-06-09 11:12:56] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 11:13:36] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 11:14:09] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 11:15:00] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 11:21:08] [LOGIN]
+User Activity: 'Jessie' authenticated successfully.
+------------------------------------------------
+[2026-06-09 11:22:22] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 11:24:31] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 11:26:31] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 11:27:08] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 11:27:52] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 11:28:05] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 11:29:00] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 11:34:28] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 11:41:51] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 11:52:04] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 11:52:10] [UTILITIES]
+Status: 12
+Electricity: 12
+Water: 12
+Other: 12
+------------------------------------------------
+[2026-06-09 11:52:41] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 11:55:15] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 11:55:36] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 12:04:25] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 12:05:33] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 12:14:01] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 12:17:36] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 12:18:05] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 12:18:33] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 12:21:40] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 12:34:49] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 12:38:45] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 12:41:31] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 12:54:18] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 12:56:22] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 12:57:43] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 13:04:38] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 13:08:45] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 13:25:06] [LOGIN]
+User Activity: '1212Demo' authenticated successfully.
+------------------------------------------------
+[2026-06-09 13:27:56] [LOGIN]
+User Activity: '1212Demo' authenticated successfully.
+------------------------------------------------
+[2026-06-09 14:58:31] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 14:59:32] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 14:59:41] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 15:01:53] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 15:06:31] [LOGIN]
+User Activity: 'Martn' authenticated successfully.
+------------------------------------------------
+[2026-06-09 15:06:41] [TENANT]
+Name: DEMO
+Room: DEMO
+Contact: DEMO
+Lease Start: DEMO
+------------------------------------------------
+[2026-06-09 15:07:08] [LOGIN]
+User Activity: 'Martn' authenticated successfully.
+------------------------------------------------
+[2026-06-09 16:26:31] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 16:32:06] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 16:33:20] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 16:40:40] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 16:41:01] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:14:45] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:21:16] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:41:20] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:43:42] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:43:55] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:44:09] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:45:19] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:45:41] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:47:44] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:47:59] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:48:24] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:48:53] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:49:16] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:49:44] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:49:57] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:50:22] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:52:00] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:52:24] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:52:52] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:53:34] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:54:09] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:56:46] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:58:12] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 19:59:09] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 20:00:08] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 20:02:44] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 20:05:40] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 20:20:15] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 20:29:17] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 20:30:09] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 20:37:10] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-09 22:47:37] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-10 08:45:20] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-10 09:00:46] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-10 09:01:30] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-10 09:01:56] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-10 09:02:09] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-10 09:08:22] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-10 09:13:04] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-10 09:13:20] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-10 09:15:57] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
+[2026-06-10 09:16:30] [LOGIN]
+User Activity: '12' authenticated successfully.
+------------------------------------------------
